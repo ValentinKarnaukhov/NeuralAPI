@@ -1,5 +1,5 @@
 /**
- * neuron class
+ *  Standard neuron class
  */
 public class StdNeuron implements Neuron{
 
