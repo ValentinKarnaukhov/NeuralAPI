@@ -5,6 +5,11 @@ import java.util.List;
 
 public class Main {
 
+    /**
+     * Start program
+     *
+     * @param args
+     */
     public static void main(String[] args) {
 
         List<Layer> layerList=new LinkedList<>();
